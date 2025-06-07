@@ -1,0 +1,1 @@
+// React WebSocket frontend component

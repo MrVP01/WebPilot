@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+playwright
+openai
+structlog
+prometheus_client
+redis
